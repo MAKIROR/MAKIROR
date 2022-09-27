@@ -1,4 +1,4 @@
-# MAKIROR
+## MAKIROR
 
 ### 😺Hi, I'm MAKIROR, a junior high school student.
 
