@@ -12,4 +12,5 @@
 ### 📒Contact me:
 Discord: MAKIROR #6280    
 Gmail: gzanan@gmail.com    
-Twitter: MAKIROR    
+Twitter: MAKIROR   
+Blog：http://makiror.xyz  
