@@ -7,10 +7,12 @@
 - Linux 
 - Programming (e.g. rust Csharp and Nodejs
 - Minecraft
-- Painting
+- Painting    
 
 ### 📒Contact me:
 Discord: MAKIROR #6280    
 Gmail: gzanan@gmail.com    
-Twitter: MAKIROR   
-Blog：http://makiror.xyz  
+Twitter: MAKIROR  
+
+### 🌏My Blog
+http://makiror.xyz/?l=en_us
