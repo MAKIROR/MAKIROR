@@ -9,6 +9,10 @@
 - Minecraft
 - Painting    
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
+</div>
+
 ### 📒Contact me:
 Discord: MAKIROR #6280    
 Gmail: gzanan@gmail.com    
