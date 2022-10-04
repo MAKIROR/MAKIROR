@@ -41,5 +41,5 @@ Gmail: gzanan@gmail.com
 Twitter: MAKIROR  
 
 ### 🌏My Blog
-English：http://makiror.xyz/?l=en_us
+English：http://makiror.xyz/?l=en_us    
 Chinese：http://makiror.xyz
