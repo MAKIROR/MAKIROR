@@ -1,10 +1,10 @@
 ## MAKIROR
 
 ### 😺Hi, I'm MAKIROR, a junior high school student.
-+ Learning about computer science and software development
-+ A Minecraft player
-+ Like art and reading
-+ Studying Japanese and English
+💻Learning about computer and software development    
+🎮A Minecraft player
+🎨Like art and reading
+🌐Studying Japanese and English
 
 
 ### 🤔I'm interested in:
