@@ -2,14 +2,14 @@
 
 ### 😺Hi, I'm MAKIROR, a normal junior high school student.
 💻Learning about computer and software development    
-🎮A Minecraft player
-🎨Like art and reading
-🌐Studying Japanese and English
+🎮A Minecraft player    
+🎨Like art and reading    
+🌐Studying Japanese and English    
 
 
 ### 🤔I'm interested in:
-- Linux 
-- Programming (e.g. rust Csharp and Nodejs
+- Linux
+- Programming (e.g. rust Csharp and Nodejs 
 - Minecraft
 - Painting    
 
