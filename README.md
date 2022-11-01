@@ -46,4 +46,4 @@ Discord: MAKIROR #6280
 Gmail: gzanan@gmail.com    
 
 ### 🌏My Blog 
-Chinese：http://makiror.xyz
+Chinese：http://www.makiror.xyz
