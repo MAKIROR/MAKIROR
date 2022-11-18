@@ -1,7 +1,7 @@
 ## MAKIROR
 
 ### 😺Hi, I'm MAKIROR, a normal junior high school student.
-💻Learning about computer and software development    
+💻Learning about computer and software
 🎮A Minecraft player    
 🎨Like art and reading    
 🌐Studying Japanese and English    
@@ -45,4 +45,5 @@ Discord: MAKIROR #6280
 Gmail: gzanan@gmail.com    
 
 ### 🌏My Blog 
-Chinese：http://www.makiror.xyz
+[Chinese](http://makiror.xyz)
+[English](http://makiror.xyz/?l=en_us)
