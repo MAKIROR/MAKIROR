@@ -47,3 +47,6 @@ Gmail: gzanan@gmail.com
 ### 🌏My Blog 
 [Chinese](http://makiror.xyz)
 [English](http://makiror.xyz/?l=en_us)
+
+### My contributions
+![](https://github.com/MAKIROR/MAKIROR/blob/output/github-contribution-grid-snake.svg)
