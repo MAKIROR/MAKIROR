@@ -1,7 +1,10 @@
 ## MAKIROR
 
-### 😺Hi, I'm MAKIROR, a normal junior high school student.
-💻Learning about computer and software
+![MAKIROR](https://github.com/MAKIROR/MAKIROR/blob/main/images/Github.png)
+    
+    
+### Hi, I'm MAKIROR, a normal junior high school student.
+📚Learning about computer and software    
 🎮A Minecraft player    
 🎨Like art and reading    
 🌐Studying Japanese and English    
@@ -13,7 +16,7 @@
 - Minecraft
 - Painting    
 
-### Languages And Tools
+### 💻Languages And Tools
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"width="40" height="40"/>&nbsp;
@@ -44,9 +47,9 @@
 Discord: MAKIROR #6280    
 Gmail: gzanan@gmail.com    
 
-### 🌏My Blog 
-[Chinese](http://makiror.xyz)
+### 🌏Blog 
+[Chinese](http://makiror.xyz)    
 [English](http://makiror.xyz/?l=en_us)
 
-### My contributions
+### 📅Stats
 ![](https://github.com/MAKIROR/MAKIROR/blob/output/github-contribution-grid-snake.svg)
