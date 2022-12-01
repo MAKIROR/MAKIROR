@@ -12,7 +12,7 @@
 
 ### 🤔I'm interested in:
 - Linux
-- Programming (e.g. rust Csharp and Nodejs 
+- Programming
 - Minecraft
 - Painting    
 
@@ -44,7 +44,6 @@
 </div>
 
 ### 📒Contact me:
-Discord: MAKIROR #6280    
 Gmail: gzanan@gmail.com    
 
 ### 🌏Blog 
