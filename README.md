@@ -3,7 +3,7 @@
 ![MAKIROR](https://github.com/MAKIROR/MAKIROR/blob/main/images/Github.png)
     
     
-### Hi, I'm MAKIROR, a normal junior high school student.
+### Hi, I'm MAKIROR.
 📚Learning about computer and software    
 🎮A Minecraft player    
 🎨Like art and reading    
