@@ -46,7 +46,7 @@
 </div>
 
 ### 📒Contact me:
-Gmail: gzanan@gmail.com
+Gmail: gzanan@gmail.com    
 Discord: MAKIROR#6280
 
 ### 🌏Blog 
