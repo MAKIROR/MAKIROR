@@ -50,7 +50,7 @@ Gmail: gzanan@gmail.com
 Discord: MAKIROR#6280
 
 ### 🌏Blog 
-[www.makiror.xyz](http://www.makiror.xyz)    
+[www.makiror.xyz](http://www.makiror.xyz?l=en_us)    
 
 ### 📅Stats
 
