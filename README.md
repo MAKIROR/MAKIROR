@@ -11,7 +11,7 @@
 
 
 ### 🤔I'm interested in:
-- Linux
+- Computer
 - Programming
 - Minecraft
 - Painting    
