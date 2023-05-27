@@ -46,7 +46,6 @@
 ### 📒Contact me:
 Gmail: gzanan@gmail.com    
 Discord: MAKIROR#6280    
-[Cinema（映画馆）(Discord)](https://discord.gg/TJFeJgfKqe)
 
 ### 🌏Blog 
 [www.makiror.xyz](http://www.makiror.xyz?l=en_us)    
