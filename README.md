@@ -3,7 +3,7 @@
 ![MAKIROR](https://github.com/MAKIROR/MAKIROR/blob/main/Github.png)
     
     
-### Hi, I'm MAKIROR.
+### Hi, I'm Makiror Ouyang.
 📚Learning about computer and software    
 🎮A Minecraft player    
 🎨Like art and reading    
