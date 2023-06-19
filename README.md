@@ -5,6 +5,7 @@
     
 ### Hi, I'm Makiror Ouyang.
 📚Learning about computer and software    
+😸 GDG member
 🎮A Minecraft player    
 🎨Like art and reading    
 🌐Studying Japanese and English    
