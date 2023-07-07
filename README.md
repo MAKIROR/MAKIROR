@@ -10,6 +10,7 @@
 🎨Like art and reading    
 🌐Studying Japanese and English    
 
+$$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
 
 ### 🤔I'm interested in:
 - Computer
