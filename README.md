@@ -58,5 +58,4 @@ Gmail: gzanan@gmail.com
 ### 👀Visitors
 ![VisitorCount](https://profile-counter.glitch.me/MAKIROR/count.svg)
 
-![](https://github.com/MAKIROR/MAKIROR/blob/output/github-contribution-grid-snake.svg)
 <br>
