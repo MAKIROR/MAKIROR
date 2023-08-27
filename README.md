@@ -8,7 +8,7 @@
 😸 GDG member    
 🎮A Minecraft player    
 🎨Like art and reading    
-🧳A Young traveler    
+🧳A young traveler    
 🌐Studying Japanese and English    
 
 $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
