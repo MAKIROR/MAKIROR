@@ -2,7 +2,6 @@
 
 ![MAKIROR](https://github.com/MAKIROR/MAKIROR/blob/main/Github.png)
     
-    
 ### Hi, I'm Makiror Ouyang.
 📚Learning about computer and software    
 😸 GDG member    
