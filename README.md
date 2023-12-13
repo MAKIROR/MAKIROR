@@ -3,12 +3,14 @@
 ![MAKIROR](https://github.com/MAKIROR/MAKIROR/blob/main/Github.png)
     
 ### Hi, I'm Makiror Ouyang.
-📚Learning about computer and software    
-😸 GDG member    
+📚Learning about Computer science and Machine Learning 
+😸GDG member    
 🎮A Minecraft player    
 🎨Like art and reading    
 🧳A young traveler    
-🌐Studying Japanese and English    
+🌐Language skill English $\geq$ Japanese > German > French
+
+(First language is Chinese)
 
 $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
 
