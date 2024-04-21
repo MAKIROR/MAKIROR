@@ -1,7 +1,4 @@
-## MAKIROR
-
-![MAKIROR](https://github.com/MAKIROR/MAKIROR/blob/main/Github.png)
-    
+## Anqiao Ouyang
 ### Hi, I'm Makiror Ouyang.
 📚Learning about Computer science and Machine Learning 
 😸GDG member    
