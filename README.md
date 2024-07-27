@@ -44,6 +44,7 @@ $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
 </div>
 
 ### 📒Contact me:
+Hotmail: gzanqiao@hotmail.com
 Gmail: gzanan@gmail.com    
 
 ### 🌏Blog 
