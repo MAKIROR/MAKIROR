@@ -1,6 +1,6 @@
 ## Anqiao Ouyang
 ### Hi, I'm Makiror Ouyang.
-📚Learning about Computer science and Machine Learning 
+📚Learning about Computer science and Machine Learning     
 😸GDG member    
 🎮A Minecraft player    
 🎨Like art and reading    
