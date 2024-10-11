@@ -7,7 +7,7 @@
 🧳A young traveler    
 🌐Language skill English $\geq$ Japanese > German > French
 
-(First language is Chinese)
+(My first language is Cantonese)
 
 $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
 
