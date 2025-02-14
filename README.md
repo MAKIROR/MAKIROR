@@ -1,5 +1,9 @@
 ## Anqiao Ouyang
-### Hi, I'm Makiror Ouyang.
+### Hi, I'm Ouyang :)
+
+Here is my Personal <del>Garbage(?)</del>.    
+WeChat public account: Makiror Ouyang
+
 📚Learning about Computer science and Machine Learning     
 😸GDG member    
 🎮A Minecraft player    
@@ -45,7 +49,7 @@ $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
 
 ### 📒Contact me:
 Hotmail: gzanqiao@hotmail.com
-Gmail: gzanan@gmail.com    
+Gmail: gzaqiao@gmail.com    
 
 ### 🌏Blog 
 [www.makiror.xyz](http://www.makiror.xyz?l=en_us)    
