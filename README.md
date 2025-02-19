@@ -1,7 +1,7 @@
 ## Anqiao Ouyang
 ### Hi, I'm Ouyang :)
 
-Here is my Personal <del>Garbage(?)</del>.    
+Here is my Personal <del>Garbage can(?)</del>.    
 WeChat public account: Makiror Ouyang
 
 📚Learning about Computer science and Machine Learning     
