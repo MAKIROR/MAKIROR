@@ -4,48 +4,7 @@
 Here is my Personal <del>Garbage can(?)</del>.    
 WeChat public account: Makiror Ouyang
 
-📚Learning about Computer science and Machine Learning     
-😸GDG member    
-🎮A Minecraft player    
-🎨Like art and reading    
-🧳A young traveler    
-🌐Language skill English $\geq$ Japanese > German > French
-
-(My first language is Cantonese)
-
 $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
-
-### 🤔I'm interested in:
-- Computer
-- Programming
-- Minecraft
-- Painting    
-
-### 💻Languages And Tools
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src=" https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/>&nbsp;
- 
-</div>
 
 ### 📒Contact me:
 Hotmail: gzanqiao@hotmail.com
