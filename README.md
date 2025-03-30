@@ -2,7 +2,6 @@
 ### Hi, I'm Ouyang :)
 
 Here is my Personal <del>Garbage can(?)</del>.    
-WeChat public account: Makiror Ouyang
 
 $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
 
@@ -12,6 +11,7 @@ Gmail: gzanqiao@gmail.com
 
 ### 🌏Blog 
 [www.makiror.xyz](http://www.makiror.xyz?l=en_us)    
+WeChat public account: Makiror Ouyang
 
 ### 📅Stats
 
