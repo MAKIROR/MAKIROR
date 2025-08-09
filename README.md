@@ -5,13 +5,9 @@ Here is my Personal <del>Garbage can(?)</del>.
 
 $$ \text{Achievement} = \sum_{\text{goal}}^{\text{success}} \text{Effort} $$
 
-### 📒Contact me:
-Hotmail: gzanqiao@hotmail.com
-Gmail: gzanqiao@gmail.com    
-
 ### 🌏Blog 
-[www.makiror.xyz](http://www.makiror.xyz?l=en_us)    
-WeChat public account: Makiror Ouyang
+[www.aqouyang.com](www.aqouyang.com)    
+WeChat public account: OuYang A
 
 ### 📅Stats
 
